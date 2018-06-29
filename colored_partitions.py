@@ -91,5 +91,3 @@ def colorPartitions(n):
     print(bigArrayPart2)
     print("the number of white squares is", white)
     print("the number of black squares is", black)     
-
-colorPartitions(12)
